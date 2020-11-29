@@ -49,7 +49,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
-        <orientdb.version>2.2.31</orientdb.version>
+        <orientdb.version>3.0.0</orientdb.version>
         <blueprints.version>2.6.0</blueprints.version>
         <junit.version>4.12</junit.version>
     </properties>
