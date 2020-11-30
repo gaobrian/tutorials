@@ -135,7 +135,7 @@
         <dependency>
             <groupId>io.specto</groupId>
             <artifactId>hoverfly-java</artifactId>
-            <version>0.8.1</version>
+            <version>0.13.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.httpcomponents</groupId>
@@ -893,13 +893,13 @@
         <commons.io.version>2.5</commons.io.version>
         <commons.dbutils.version>1.6</commons.dbutils.version>
         <h2.version>1.4.196</h2.version>
-        <jetty.version>9.4.8.v20171121</jetty.version>
+        <jetty.version>9.4.35.v20201120</jetty.version>
         <jnats.version>1.0</jnats.version>
 
         <httpclient.version>4.5.3</httpclient.version>
         <commons.io.version>2.5</commons.io.version>
         <flink.version>1.2.0</flink.version>
-        <jackson.version>2.8.5</jackson.version>
+        <jackson.version>2.9.10.4</jackson.version>
         <neuroph.version>2.92</neuroph.version>
         <serenity.version>1.4.0</serenity.version>
         <serenity.jbehave.version>1.24.0</serenity.jbehave.version>
@@ -933,9 +933,9 @@
         <caffeine.version>2.5.5</caffeine.version>
         <google-api.version>1.23.0</google-api.version>
         <google-sheets.version>v4-rev493-1.21.0</google-sheets.version>
-        <kafka.version>1.0.0</kafka.version>
+        <kafka.version>2.2.2</kafka.version>
         <smooks.version>1.7.0</smooks.version>
-        <docker.version>3.0.14</docker.version>
+        <docker.version>3.2.0</docker.version>
         <tomcat.version>8.5.24</tomcat.version>
         <async.http.client.version>2.2.0</async.http.client.version>
         <infinispan.version>9.1.5.Final</infinispan.version>
