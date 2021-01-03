@@ -373,7 +373,7 @@
         <hsqldb.version>2.4.0</hsqldb.version>
         <esapi.version>2.1.0.1</esapi.version>
         <jmh-generator-annprocess.version>1.19</jmh-generator-annprocess.version>
-        <async-http-client.version>2.4.5</async-http-client.version>
+        <async-http-client.version>2.12.2</async-http-client.version>
     </properties>
 
 </project>
