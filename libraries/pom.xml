@@ -135,7 +135,7 @@
         <dependency>
             <groupId>io.specto</groupId>
             <artifactId>hoverfly-java</artifactId>
-            <version>0.8.1</version>
+            <version>0.13.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.httpcomponents</groupId>
@@ -684,7 +684,7 @@
         <dependency>
             <groupId>io.javalin</groupId>
             <artifactId>javalin</artifactId>
-            <version>1.6.0</version>
+            <version>3.13.0</version>
         </dependency>
         <!-- Atlassian Fugue -->
         <dependency>
