@@ -95,7 +95,7 @@
         <javaee-api.version>7.0</javaee-api.version>
         <maven-ejb-plugin.version>2.4</maven-ejb-plugin.version>
         <ejbVersion>3.2</ejbVersion>
-        <wildfly-ejb-client-bom.version>10.1.0.Final</wildfly-ejb-client-bom.version>
+        <wildfly-ejb-client-bom.version>23.0.0.Final</wildfly-ejb-client-bom.version>
     </properties>
 
 </project>
