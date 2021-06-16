@@ -134,7 +134,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <activejdbc.version>1.4.13</activejdbc.version>
+        <activejdbc.version>1.4.13.j7</activejdbc.version>
         <environments>development.test,development</environments>
         <org.slf4j.version>1.7.9</org.slf4j.version>
         <mysql.connector.version>5.1.34</mysql.connector.version>
