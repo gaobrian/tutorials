@@ -553,7 +553,7 @@
         <dependency>
             <groupId>org.docx4j</groupId>
             <artifactId>docx4j</artifactId>
-            <version>3.3.5</version>
+            <version>6.0.0</version>
         </dependency>
         <dependency>
             <groupId>javax.xml.bind</groupId>
@@ -898,7 +898,7 @@
 
         <httpclient.version>4.5.3</httpclient.version>
         <commons.io.version>2.5</commons.io.version>
-        <flink.version>1.2.0</flink.version>
+        <flink.version>1.4.0</flink.version>
         <jackson.version>2.8.5</jackson.version>
         <neuroph.version>2.92</neuroph.version>
         <serenity.version>1.4.0</serenity.version>
