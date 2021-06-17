@@ -200,7 +200,7 @@
 
     <properties>
         <!-- Spring -->
-        <org.springframework.security.version>4.2.6.RELEASE</org.springframework.security.version>
+        <org.springframework.security.version>5.2.9.RELEASE</org.springframework.security.version>
 
         <!-- persistence -->
         <hibernate.version>5.2.5.Final</hibernate.version>
@@ -216,7 +216,7 @@
         <commons-lang3.version>3.5</commons-lang3.version>
 
         <httpcore.version>4.4.5</httpcore.version>
-        <httpclient.version>4.5.2</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
 
         <rest-assured.version>2.9.0</rest-assured.version>
 
