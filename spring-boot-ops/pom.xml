@@ -25,7 +25,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
 		<jquery.version>3.1.1</jquery.version>
-		<bootstrap.version>3.3.7-1</bootstrap.version>
+		<bootstrap.version>4.5.0</bootstrap.version>
 	</properties>
 
 	<dependencies>
@@ -96,7 +96,7 @@
 		<dependency>
 			<groupId>com.google.guava</groupId>
 			<artifactId>guava</artifactId>
-			<version>18.0</version>
+			<version>30.0-android</version>
 		</dependency>
 
 		<dependency>
