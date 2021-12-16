@@ -285,7 +285,7 @@
     <properties>
         <!-- Spring -->
         <org.springframework.security.version>4.2.6.RELEASE</org.springframework.security.version>
-        <org.springframework.hateoas.version>0.21.0.RELEASE</org.springframework.hateoas.version>
+        <org.springframework.hateoas.version>1.1.2.RELEASE</org.springframework.hateoas.version>
 
         <!-- persistence -->
         <hibernate.version>5.2.5.Final</hibernate.version>
@@ -307,7 +307,7 @@
         <rest-assured.version>2.9.0</rest-assured.version>
 
         <!-- swagger -->
-        <springfox-swagger.version>2.7.0</springfox-swagger.version>
+        <springfox-swagger.version>2.10.0</springfox-swagger.version>
 
         <httpcore.version>4.4.5</httpcore.version>
         <httpclient.version>4.5.2</httpclient.version>
