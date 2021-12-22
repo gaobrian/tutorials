@@ -219,7 +219,7 @@
         <start-class>org.baeldung.demo.DemoApplication</start-class>
         <tomee-servlet-api.version>8.5.11</tomee-servlet-api.version>
         <togglz.version>2.4.1.Final</togglz.version>
-        <rome.version>1.9.0</rome.version>
+        <rome.version>1.14.0</rome.version>
     </properties>
 
 </project>
