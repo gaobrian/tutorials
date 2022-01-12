@@ -354,8 +354,8 @@
 
         <json.path.version>2.2.0</json.path.version>
 
-        <pact.version>3.5.11</pact.version>
-        <rest-assured.version>3.1.0</rest-assured.version>
+        <pact.version>3.5.14</pact.version>
+        <rest-assured.version>4.4.0</rest-assured.version>
     </properties>
 
 </project>
