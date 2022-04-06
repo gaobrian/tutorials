@@ -218,7 +218,7 @@
         <!-- The main class to start by executing java -jar -->
         <start-class>org.baeldung.demo.DemoApplication</start-class>
         <tomee-servlet-api.version>8.5.11</tomee-servlet-api.version>
-        <togglz.version>2.4.1.Final</togglz.version>
+        <togglz.version>2.5.0.Final</togglz.version>
         <rome.version>1.9.0</rome.version>
     </properties>
 
