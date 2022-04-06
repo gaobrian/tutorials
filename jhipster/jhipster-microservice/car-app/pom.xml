@@ -26,7 +26,7 @@
         <commons-io.version>2.5</commons-io.version>
         <commons-lang.version>3.5</commons-lang.version>
         <docker-maven-plugin.version>0.4.13</docker-maven-plugin.version>
-        <hazelcast-hibernate52.version>1.2</hazelcast-hibernate52.version>
+        <hazelcast-hibernate52.version>2.2.0</hazelcast-hibernate52.version>
         <hibernate.version>5.2.8.Final</hibernate.version>
         <hikaricp.version>2.6.0</hikaricp.version>
         <jacoco-maven-plugin.version>0.7.9</jacoco-maven-plugin.version>
