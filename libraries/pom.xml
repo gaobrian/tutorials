@@ -684,7 +684,7 @@
         <dependency>
             <groupId>io.javalin</groupId>
             <artifactId>javalin</artifactId>
-            <version>1.6.0</version>
+            <version>4.6.4</version>
         </dependency>
         <!-- Atlassian Fugue -->
         <dependency>
@@ -893,7 +893,7 @@
         <commons.io.version>2.5</commons.io.version>
         <commons.dbutils.version>1.6</commons.dbutils.version>
         <h2.version>1.4.196</h2.version>
-        <jetty.version>9.4.8.v20171121</jetty.version>
+        <jetty.version>10.0.10</jetty.version>
         <jnats.version>1.0</jnats.version>
 
         <httpclient.version>4.5.3</httpclient.version>
