@@ -80,7 +80,7 @@
     <properties>
         <spring-cloud-dependencies.version>Brixton.SR7</spring-cloud-dependencies.version>
         <maven-surefire-plugin.version>2.19.1</maven-surefire-plugin.version>
-        <postgresql.version>9.4-1201-jdbc4</postgresql.version>
+        <postgresql.version>42.2.26</postgresql.version>
     </properties>
 
 </project>
